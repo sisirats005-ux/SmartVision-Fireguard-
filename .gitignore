@@ -1,4 +1,5 @@
 venv/
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 yolov9/
@@ -10,3 +11,5 @@ static/video/*.mov
 static/video/*.webm
 static/video/*.mkv
 !static/video/.gitkeep
+=======
+>>>>>>> ca37e3ec50540364af2b83c70bc458a2fb8abc22
